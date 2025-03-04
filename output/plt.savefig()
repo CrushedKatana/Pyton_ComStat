@@ -1,0 +1,4 @@
+plt.savefig('output/bar_chart.png')
+plt.savefig('output/pie_chart.png')
+plt.savefig('output/histogram.png')
+plt.savefig('output/boxplot.png')
